@@ -1,6 +1,6 @@
 # HyperParanoid
 
-TODO: Write a gem description
+HyperParanoid adds [acts\_as\_paranoid](https://github.com/technoweenie/acts_as_paranoid) to the default Rails model generators.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1. Install this gem
+
+HyperParanoid takes care of defining your models as paranoid during generation.
 
 ## Contributing
 
